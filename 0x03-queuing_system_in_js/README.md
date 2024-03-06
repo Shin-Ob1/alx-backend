@@ -1,1 +1,1 @@
-This is a project for queing system in js
+Readme file for Alx Queing project
